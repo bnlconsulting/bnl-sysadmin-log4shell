@@ -4,7 +4,7 @@ information and scripts related to log4shell detection and mitigation
 * Created: 12/22/2021
 * Created by: Lee Wiscovitch
 
-The log4shell-mitigation.ps1 script will follow the instructions provided by SAS to mitigate the Log4Shell vulnerabilities on SAS Systems.
+The log4shell-mitigation.ps1 script will follow the instructions provided by SAS to mitigate the Log4Shell vulnerabilities on SAS Windows Systems.
 
 [SAS Log4Shell Mitigation Steps](https://go.documentation.sas.com/doc/en/log4j/1.0/p1gaeukqxgohkin1uho5gh7v5s7p.htm)
 
